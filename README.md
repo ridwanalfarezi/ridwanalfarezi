@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [bit.ly/ridwanalfarezi](bit.ly/ridwanalfarezi)
 
-- 💬 Ask me about **Programming, Web Development**
+- 💬 Ask me about **Programming and Web Development**
 
 - 📫 How to reach me **alfareziridwan@gmail.com**
 
