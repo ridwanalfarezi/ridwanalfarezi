@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridwan Alfarezi</h1>
-<h3 align="center">A Web Development Enthusiast from Indonesia.</h3>
+<h3 align="center">Web Developer from Indonesia.</h3>
 
 - 🔭 I’m currently study on **SMKN 69 Jakarta**
 
