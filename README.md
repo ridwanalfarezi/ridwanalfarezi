@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 👨‍💻 All of my projects are available at [bit.ly/ridwanalfarezi](bit.ly/ridwanalfarezi)
+- 👨‍💻 All of my projects are available at [bit.ly/ridwanalfarezi](https://bit.ly/ridwanalfarezi)
 
 - 💬 Ask me about **Programming and Web Development**
 
