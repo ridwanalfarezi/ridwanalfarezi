@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently study on **SMKN 69 Jakarta**
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Front Web Development Frameworks**
 
 - 👨‍💻 All of my projects are available at [bit.ly/ridwanalfarezi](https://bit.ly/ridwanalfarezi)
 
