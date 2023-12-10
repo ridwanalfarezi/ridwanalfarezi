@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridwan Alfarezi</h1>
 <h3 align="center">Front-End Web Developer from Indonesia.</h3>
 
-- 🔭 I’m currently study on **SMKN 69 Jakarta**
-
 - 🌱 I’m currently learning **Front-End Web Development Frameworks**
 
 - 👨‍💻 All of my projects are available at [bit.ly/ridwanalfarezi](https://bit.ly/ridwanalfarezi)
