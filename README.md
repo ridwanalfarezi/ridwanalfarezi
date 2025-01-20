@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwan Alfarezi</h1>
 <h3 align="center">Front-End Web Developer from Indonesia.</h3>
 
-- 🌱 I’m currently learning **Front-End Web Development Frameworks**
+- 🌱 I’m currently learning **Backend and Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [bit.ly/ridwanalfarezi](https://bit.ly/ridwanalfarezi)
 
